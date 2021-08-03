@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://albertovargasmoreno.github.io/jekyll-test/sitemap.xml
