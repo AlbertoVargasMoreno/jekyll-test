@@ -1,6 +1,6 @@
-baseurl: /jekyll-test
-url: https://albertovargasmoreno.github.io
-destination: ./docs
+# baseurl: /jekyll-test
+url: https://albertovargasmoreno.github.io/jekyll-test
+# destination: ./docs
 
 
 # Default settings
